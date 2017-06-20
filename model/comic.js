@@ -15,4 +15,6 @@
     this.image = imageurl;
     div.innerHTML = this.image;
   };
-})
+
+  exports.Comic = Comic;
+})(this);
