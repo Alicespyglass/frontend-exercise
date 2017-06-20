@@ -6,6 +6,12 @@
       // make API call
     };
 
+    ComicAPI.prototype.renderComic = function () {
+      comic = new Comic(comicData)
+
+      return comic;
+    };
+
   }
 
 exports.ComicAPI = ComicAPI;
