@@ -13,6 +13,19 @@ You will be evaluated on your ability to integrate with a RESTful JSON API inclu
 
 The data will be provided by the Marvel API.
 
+## Set up
+
+Node
+
+Update
+```
+$ npm install
+```
+Run server (http://localhost:8080)
+```
+$ node node_modules/http-server/bin/http-server
+```
+
 ## Technical details
 
 ### Getting started

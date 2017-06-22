@@ -1,0 +1,25 @@
+{
+  "name": "frontend-exercise",
+  "version": "1.0.0",
+  "description": "The objective is to create an app called 'Red Ant Comics'. This app will comprise of a listing page of comics with the ability to add comics to a favourites list.",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.10.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alicespyglass/frontend-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alicespyglass/frontend-exercise/issues"
+  },
+  "homepage": "https://github.com/Alicespyglass/frontend-exercise#readme"
+}

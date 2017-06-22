@@ -7,8 +7,8 @@
     addComicListDiv();
 
     listofComics.forEach(function (comic) {
-      setUpComicDiv(comic)
-    })
+      setUpComicDiv(comic);
+    });
 
   }
 
